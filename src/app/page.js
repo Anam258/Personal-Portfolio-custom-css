@@ -22,7 +22,7 @@ export default function Home() {
       <section id="about" className={styles.aboutSection}>
         <div className={styles.aboutContent}>
           <img
-            src="/images/profile2.jpg"
+            src="/profile2.jpg"
             alt="Anam Anwer"
             className={styles.profileImage}
           />
