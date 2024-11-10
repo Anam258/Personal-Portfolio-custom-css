@@ -11,7 +11,7 @@ export default function About() {
 
         <div className={styles.contentSection}>
           <img
-            src="/images/profile1.jpg"
+            src="/profile1.jpg"
             alt="Profile"
             className={styles.profileImage}
           />
